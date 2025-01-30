@@ -1,2 +1,5 @@
 #Documentacion del repositorio
-Hola mundo
+
+##Instalacion
+
+Para instalar el repositorio, se debe ejecutar el siguiente comando:
